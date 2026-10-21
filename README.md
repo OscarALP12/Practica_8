@@ -1,4 +1,4 @@
-# Practica_7
+# Practica_8
 
 **Asignatura:** Programación Orientada a Objetos (Grupo 07)  
 
@@ -8,11 +8,8 @@
 
 **Semestre:** 3º (Semestre 2027-1)  
 
-**Fecha de Entrega:** 17 Octubre 2026  
+**Fecha de Entrega:** 23 Octubre 2026  
 
 **Brigada:** 6  
 
 Link a archivo LaTeX ``
-
-Link a video `https://www.youtube.com/watch?v=mOlqjg7vW-A`
-
