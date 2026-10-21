@@ -19,18 +19,8 @@ public class Main {
     listaDeObjetos.add(bicicleta1);
     
     for (HuellaCarbono objeto : listaDeObjetos) {
-      if (objeto instanceof Auto) {
-        System.out.println(auto1);
-        System.out.println(auto1.getHuellaCarbono());
-      }
-      if (objeto instanceof Edificio) {
-        System.out.println(edificio1);
-        System.out.println(edificio1.getHuellaCarbono());
-      }
-      if (objeto instanceof Bicicleta) {
-        System.out.println(bicicleta1);
-        System.out.println(bicicleta1.getHuellaCarbono());
-      }
+      System.out.println(objeto);
+      System.out.println(objeto.getHuellaCarbono());
     }
   }
 }
